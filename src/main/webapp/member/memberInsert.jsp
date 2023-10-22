@@ -1,9 +1,9 @@
 <%--
   Created by IntelliJ IDEA.
   User: chans
-  Date: 2023-10-20
+  Date: 2023-10-20 ~ 2023-10-22
 --%>
-<%@ page contentType="text/html;charset=UTF-8"%>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <%@ page import="model.MemberVO" %>
 <%@ page import="model.MemberDAO" %>
 <%
